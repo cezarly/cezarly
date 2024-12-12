@@ -6,6 +6,7 @@
 <body>
     <header>
         <h1>Poverty Awareness</h1>
+        <img src="project1.jpg" alt="Poverty Awareness" width="300" height="320">
     </header>
     <main>
         <section>
@@ -26,7 +27,7 @@
             <p>There are many ways to help reduce poverty, including supporting local charities, volunteering, and advocating for policy changes.</p>
         </section>
     </main>
-    <footer>
+   <footer>
         <p>&copy; 2024 Poverty Awareness</p>
     </footer>
 </body>
